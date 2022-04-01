@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8982373062465414510}
   - component: {fileID: 8982373062465414509}
   m_Layer: 0
-  m_Name: RightPaddle
+  m_Name: RightFlipper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

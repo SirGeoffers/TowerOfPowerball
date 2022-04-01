@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Paddle : MonoBehaviour
+public class Flipper : MonoBehaviour
 {
     public float maxRotationOffset = -30;
     public float timeToMaxRotation = 0.1f;
